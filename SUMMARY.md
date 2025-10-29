@@ -6,8 +6,10 @@
 
 * [eLearnSecurity / INE](course-notes/elearnsecurity-ine/README.md)
   * [eJPTv2 - PTS](https://k3shi.gitbook.io/ine-training-notes/)
-* [ICCA](course-notes/icca.md)
-* [HTB CPTS](course-notes/htb-cpts.md)
+  * [ICCA](course-notes/elearnsecurity-ine/icca.md)
+* Hack The Box
+  * [Information Security Fundamental](course-notes/hack-the-box/information-security-fundamental.md)
+  * [CPTS](course-notes/hack-the-box/cpts.md)
 * [Cisco Networking Academy](course-notes/cisco-networking-academy/README.md)
   * [CCNAv7](course-notes/cisco-networking-academy/ccnav7/README.md)
     * [CCNA ENSA](course-notes/cisco-networking-academy/ccnav7/ccna-ensa.md)

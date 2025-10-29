@@ -1,6 +1,6 @@
 # ICCA
 
-![](<../.gitbook/assets/icca.gitbookassetsICCA badge small (1).png>)
+![](<../../.gitbook/assets/icca.gitbookassetsICCA badge small (1).png>)
 
 ICCA - ![©](https://faceted-airplane-b39.notion.site/Base64-Image-Removed) INE
 
