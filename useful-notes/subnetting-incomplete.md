@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Subnetting (incomplete)
 
 ## IPV4 Subnetting Calculation
