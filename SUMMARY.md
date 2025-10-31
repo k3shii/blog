@@ -25,8 +25,9 @@
   * [Information Gathering](useful-notes/cybersecurity/information-gathering.md)
   * [Kioptrix](useful-notes/cybersecurity/kioptrix.md)
 * [Subnetting (incomplete)](useful-notes/subnetting-incomplete.md)
-* [Offensive / Defensive Modules](useful-notes/offensive-defensive-modules.md)
+* [Kubernetes](useful-notes/kubernetes.md)
 
 ## 📌 Useful Resources
 
 * [Markdown Reference](useful-resources/markdown-reference.md)
+* [Offensive / Defensive Modules](useful-resources/offensive-defensive-modules.md)
