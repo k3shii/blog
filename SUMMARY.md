@@ -26,6 +26,7 @@
   * [Kioptrix](useful-notes/cybersecurity/kioptrix.md)
 * [Subnetting (incomplete)](useful-notes/subnetting-incomplete.md)
 * [Kubernetes](useful-notes/kubernetes.md)
+* [Server](useful-notes/server.md)
 
 ## 📌 Useful Resources
 
